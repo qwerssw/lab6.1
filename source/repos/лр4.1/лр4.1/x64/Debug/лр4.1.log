@@ -1,0 +1,11 @@
+﻿  лр4.1.cpp
+C:\Users\And Komar\source\repos\лр4.1\лр4.1\лр4.1.cpp(9,11): error C2563: несоответствие в списке формальных параметров
+C:\Users\And Komar\source\repos\лр4.1\лр4.1\лр4.1.cpp(9,11): error C2568: *: не удается разрешить перегрузку функции
+C:\Users\And Komar\source\repos\лр4.1\лр4.1\лр4.1.cpp(9,11): message : может быть "lldiv_t div(const __int64,const __int64) throw()"
+C:\Users\And Komar\source\repos\лр4.1\лр4.1\лр4.1.cpp(9,11): message : или       "ldiv_t div(const long,const long) throw()"
+C:\Users\And Komar\source\repos\лр4.1\лр4.1\лр4.1.cpp(9,11): message : или       "div_t div(int,int)"
+C:\Users\And Komar\source\repos\лр4.1\лр4.1\лр4.1.cpp(9,11): message : или       "div_t div(int,int)"
+C:\Users\And Komar\source\repos\лр4.1\лр4.1\лр4.1.cpp(9,11): message : или       "ldiv_t div(const long,const long) throw()"
+C:\Users\And Komar\source\repos\лр4.1\лр4.1\лр4.1.cpp(9,11): message : или       "lldiv_t div(const __int64,const __int64) throw()"
+C:\Users\And Komar\source\repos\лр4.1\лр4.1\лр4.1.cpp(10,12): error C2065: mod: необъявленный идентификатор
+C:\Users\And Komar\source\repos\лр4.1\лр4.1\лр4.1.cpp(15,13): error C2065: mod: необъявленный идентификатор

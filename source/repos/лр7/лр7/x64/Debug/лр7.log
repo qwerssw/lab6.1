@@ -1,0 +1,4 @@
+﻿  лр7.cpp
+C:\Users\And Komar\source\repos\лр7\лр7\лр7.cpp(7,13): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\And Komar\source\repos\лр7\лр7\лр7.cpp(7,45): warning C4101: b: неиспользованная локальная переменная
+  лр7.vcxproj -> C:\Users\And Komar\source\repos\лр7\x64\Debug\лр7.exe
